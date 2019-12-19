@@ -1,0 +1,6 @@
+{
+    "name": "vender/twitter-login",
+    "require": {
+        "abraham/twitteroauth": "^1.1"
+    }
+}
