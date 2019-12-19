@@ -1,7 +1,7 @@
 <?php
-define('Consumer_Key', 'aLwr4XvxTXu51KqqDzEPUxTGX');
+define('Consumer_Key', '');
 
-define("Consumer_Secret", '9oolqywzakJnEUeHk67S115Pv5jLQeIuqyYYUJ30YKOZIhD7Tk');
+define("Consumer_Secret", '');
 
 define("Callback_URL", "http://localhost:8080/twitter-login/t-file.php");
 
